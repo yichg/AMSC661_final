@@ -1,5 +1,6 @@
 # AMSC661_final
-1. solving schrodinger equation with D_0^2+RK4 and spectral method; 
+1. solving schrodinger equation with D_0^2+RK4 and spectral method
+
    run final_b 
    
 2. FEM for Ginzburg-Landau equation
